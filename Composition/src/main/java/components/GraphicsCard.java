@@ -5,11 +5,12 @@ public class GraphicsCard {
     private int series;
     private String memory;
 
-    public GraphicsCard(){
+    public GraphicsCard() {
         this.brand = "Nvidia";
         this.series = 940;
         this.memory = "2GB";
     }
+
     public GraphicsCard(String brand, int series, String memory) {
         this.brand = brand;
         this.series = series;

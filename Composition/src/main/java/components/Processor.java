@@ -8,9 +8,10 @@ public class Processor {
     private int threads;
     private String cacheMemory;
     private String frequency;
-    private String MinFrequency;
-    private String MaxFrequency;
-    public Processor(){
+    private String minFrequency;
+    private String maxFrequency;
+
+    public Processor() {
         this.brand = "intel";
         this.series = "i5 7200u";
         this.generation = 7;
@@ -18,11 +19,12 @@ public class Processor {
         this.threads = 4;
         this.cacheMemory = "3MB";
         this.frequency = "2.5Ghz";
-        MinFrequency = "2.5Ghz";
-        MaxFrequency = "3.1Ghz";
+        this.minFrequency = "2.5Ghz";
+        this.maxFrequency = "3.1Ghz";
     }
 
-    public Processor(String brand, String series, int generation, int cores, int threads, String cacheMemory, String frequency, String minFrequency, String maxFrequency) {
+    public Processor(String brand, String series, int generation, int cores, int threads, String cacheMemory,
+                     String frequency, String minFrequency, String maxFrequency) {
         this.brand = brand;
         this.series = series;
         this.generation = generation;
@@ -30,8 +32,46 @@ public class Processor {
         this.threads = threads;
         this.cacheMemory = cacheMemory;
         this.frequency = frequency;
-        MinFrequency = minFrequency;
-        MaxFrequency = maxFrequency;
+        this.minFrequency = minFrequency;
+        this.maxFrequency = maxFrequency;
+    }
+
+    public String getBrand() {
+        return brand;
+    }
+
+    public String getSeries() {
+        return series;
+    }
+
+    public int getGeneration() {
+        return generation;
+    }
+
+    public int getCores() {
+        return cores;
+    }
+
+    public int getThreads() {
+        return threads;
+    }
+
+    public String getCacheMemory() {
+        return cacheMemory;
+    }
+
+    public String getFrequency() {
+        return frequency;
+    }
+
+    public String getMinFrequency() {
+        return minFrequency;
+    }
+
+    public String getMaxFrequency() { return maxFrequency; }
+
+    public void setFrequency(String frequency) {
+        this.frequency = frequency;
     }
 
     @Override
@@ -44,8 +84,8 @@ public class Processor {
                 ", threads=" + threads +
                 ", cacheMemory='" + cacheMemory + '\'' +
                 ", frequency='" + frequency + '\'' +
-                ", MinFrequency='" + MinFrequency + '\'' +
-                ", MaxFrequency='" + MaxFrequency + '\'' +
+                ", minFrequency='" + minFrequency + '\'' +
+                ", maxFrequency='" + maxFrequency + '\'' +
                 '}';
     }
 }

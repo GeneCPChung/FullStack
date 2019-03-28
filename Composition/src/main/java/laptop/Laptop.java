@@ -1,4 +1,5 @@
 package laptop;
+
 import components.GraphicsCard;
 import components.Processor;
 
@@ -12,7 +13,7 @@ public class Laptop {
     private String opticalDrive;
     private String keyboard;
 
-    public Laptop(){
+    public Laptop() {
         this.screen = 15.6f;
         this.processor = new Processor();
         this.ram = "DDR4";
@@ -33,6 +34,36 @@ public class Laptop {
         this.keyboard = keyboard;
     }
 
+    public Processor getProcessor() {
+        return processor;
+    }
+
+    public float getScreen() {
+        return screen;
+    }
+
+    public String getRam() {
+        return ram;
+    }
+
+    public String getHardDrive() {
+        return hardDrive;
+    }
+
+    public GraphicsCard getGraphicsCard() {
+        return graphicsCard;
+    }
+
+    public String getOpticalDrive() {
+        return opticalDrive;
+    }
+
+    public String getKeyboard() {
+        return keyboard;
+    }
+
+
+
     @Override
     public String toString() {
         return "Laptop{" +
@@ -44,5 +75,10 @@ public class Laptop {
                 ", opticalDrive='" + opticalDrive + '\'' +
                 ", keyboard='" + keyboard + '\'' +
                 '}';
+    }
+
+    public String gamingMode(){
+        processor.setFrequency(processor.getMaxFrequency());
+        return "Success";
     }
 }
