@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffcf17ee-f75c-4c92-9d8c-98f270a56d3f" name="Default Changelist" comment="" />
+    <list default="true" id="ffcf17ee-f75c-4c92-9d8c-98f270a56d3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/AnotherPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/AnotherPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/IsAlive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/IsAlive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/LiveLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/LiveLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/NonVegan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/NonVegan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/Vegan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/Vegan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/Clean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/Clean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing$intWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing$intWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Calculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/CurrencyConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/MethodOverloading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/NestedLoopExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/NestedLoopExercise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/PrimeOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/PrimeOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collectionsLesson/ArrayListLesson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collectionsLesson/ArrayListLesson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/comparableLessons/ComparableLesson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comparableLessons/ComparableLesson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/comparableLessons/Names.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comparableLessons/Names.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/GenericApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/GenericApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/GenericClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Door$Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Door$Lock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Door.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Shop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Interfaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Iphone8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Iphone8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/OnePlus5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/OnePlus5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Phone.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,20 +44,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/genericsLessons/GenericApp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/DeletingAFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="180">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/WriteObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/ReadObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,6 +131,15 @@
         <option value="$PROJECT_DIR$/src/main/java/autoBoxingLesson/Clean.java" />
         <option value="$PROJECT_DIR$/src/main/java/comparableLessons/ComparableLesson.java" />
         <option value="$PROJECT_DIR$/src/main/java/genericsLessons/GenericApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lambdaExpressionLesson/AppLambda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/predicateLessons/AppPredicates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/Main1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/DeletingAFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/AppSerialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/WriteObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fileHandlingLessons/ReadObject.java" />
       </list>
     </option>
   </component>
@@ -105,6 +169,11 @@
             <path>
               <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -122,6 +191,14 @@
             </path>
             <path>
               <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fileHandlingLessons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -131,10 +208,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553828200754" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553839322826" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -150,13 +227,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericApp">
-    <configuration name="ArrayListLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsLesson.ArrayListLesson" />
+  <component name="RunManager" selected="Application.ReadObject">
+    <configuration name="DeletingAFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlingLessons.DeletingAFile" />
       <module name="JavaLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collectionsLesson.*" />
+          <option name="PATTERN" value="fileHandlingLessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +241,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparableLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comparableLessons.ComparableLesson" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlingLessons.Main" />
       <module name="JavaLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comparableLessons.*" />
+          <option name="PATTERN" value="fileHandlingLessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +254,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericsLessons.GenericApp" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlingLessons.Main1" />
       <module name="JavaLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="genericsLessons.*" />
+          <option name="PATTERN" value="fileHandlingLessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LessonAutoboxingAndUnboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="autoBoxingLesson.LessonAutoboxingAndUnboxing" />
+    <configuration name="ReadObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlingLessons.ReadObject" />
       <module name="JavaLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="autoBoxingLesson.*" />
+          <option name="PATTERN" value="fileHandlingLessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerClasses.Shop" />
+    <configuration name="WriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileHandlingLessons.WriteObject" />
       <module name="JavaLesson" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerClasses.*" />
+          <option name="PATTERN" value="fileHandlingLessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericApp" />
-        <item itemvalue="Application.ComparableLesson" />
-        <item itemvalue="Application.LessonAutoboxingAndUnboxing" />
-        <item itemvalue="Application.ArrayListLesson" />
-        <item itemvalue="Application.Shop" />
+        <item itemvalue="Application.ReadObject" />
+        <item itemvalue="Application.WriteObject" />
+        <item itemvalue="Application.DeletingAFile" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -239,11 +316,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16875" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17400645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -252,15 +338,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33512932" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2914349" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946293" weight="0.27919912" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947917" weight="0.32910052" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.32910052" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286638" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946293" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49838883" weight="0.32369298" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053704" side_tool="true" weight="0.39933258" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946293" weight="0.32925472" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49946293" weight="0.32814237" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -488,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/genericsLessons/GenericApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        <state relative-caret-position="416">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />
@@ -499,6 +585,91 @@
             <element signature="e#419#420#0" expanded="true" />
             <element signature="e#445#446#0" expanded="true" />
             <element signature="e#472#473#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lambdaExpressionLesson/AppLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="7" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/predicateLessons/AppPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="50" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/DeletingAFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaLesson/vehicles.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/WriteObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/ReadObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
