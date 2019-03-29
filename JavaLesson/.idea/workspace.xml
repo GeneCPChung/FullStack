@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffcf17ee-f75c-4c92-9d8c-98f270a56d3f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/Abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/AnotherPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/AnotherPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/IsAlive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/IsAlive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/LiveLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/LiveLife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/NonVegan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/NonVegan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/abstractionLesson/Vegan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/abstractionLesson/Vegan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/Clean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/Clean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing$intWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing$intWrapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autoBoxingLesson/LessonAutoboxingAndUnboxing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Calculate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/CurrencyConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/MethodOverloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/NestedLoopExercise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/NestedLoopExercise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/basicLessons/PrimeOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicLessons/PrimeOrNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collectionsLesson/ArrayListLesson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collectionsLesson/ArrayListLesson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comparableLessons/ComparableLesson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comparableLessons/ComparableLesson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/comparableLessons/Names.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comparableLessons/Names.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/GenericApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/GenericApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/genericsLessons/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/genericsLessons/GenericClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Door$Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Door$Lock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/innerClasses/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/innerClasses/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Interfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Interfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Iphone8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Iphone8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/OnePlus5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/OnePlus5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interfaceLesson/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interfaceLesson/Phone.class" afterDir="false" />
-    </list>
+    <list default="true" id="ffcf17ee-f75c-4c92-9d8c-98f270a56d3f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,50 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/DeletingAFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/WriteObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/ReadObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,37 +93,6 @@
             </path>
             <path>
               <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fileHandlingLessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaLesson" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -208,7 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553839322826" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553865986888" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -327,9 +221,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17400645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17400645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +231,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2914349" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2914349" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946293" weight="0.27919912" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/fileHandlingLessons/ReadObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
