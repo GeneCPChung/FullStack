@@ -1,4 +1,4 @@
-package basics;
+package basicLessons;
 
 public class Calculate {
     public boolean isPrime(int num){

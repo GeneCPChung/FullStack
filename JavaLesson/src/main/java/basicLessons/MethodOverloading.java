@@ -1,4 +1,4 @@
-package basics;
+package basicLessons;
 
 public class MethodOverloading {
     public static void main(String[] args) {

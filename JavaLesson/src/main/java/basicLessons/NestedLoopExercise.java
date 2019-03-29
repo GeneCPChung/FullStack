@@ -1,4 +1,4 @@
-package basics;
+package basicLessons;
 
 public class NestedLoopExercise {
     public static void main(String[] args) {

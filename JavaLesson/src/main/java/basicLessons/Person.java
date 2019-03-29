@@ -1,4 +1,4 @@
-package basics;
+package basicLessons;
 
 public class Person {
     private String name = "John";
@@ -42,7 +42,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "basics.Person{" +
+        return "basicLessons.Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", gender='" + gender + '\'' +
