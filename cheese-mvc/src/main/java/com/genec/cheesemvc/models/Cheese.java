@@ -1,9 +1,17 @@
 package com.genec.cheesemvc.models;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
+@Entity
 public class Cheese {
+
+    @Id
+    @GeneratedValue
+    private int id;
 
     @NotNull
     @Size(min = 3, max = 15)
@@ -15,27 +23,32 @@ public class Cheese {
 
     private CheeseType type;
 
-    private int cheeseId;
-    private static int nextId = 1;
+
+/*    private int cheeseId;
+    private static int nextId = 1;*/
 
     public Cheese(String name, String description) {
-        this();
+     //   this();
         this.name = name;
         this.description = description;
     }
     public Cheese(){
-        cheeseId = nextId;
-        nextId++;
+        /*cheeseId = nextId;
+        nextId++;*/
     }
 
-    public int getCheeseId() {
-        return cheeseId;
+    public int getId() {
+        return id;
     }
 
-    public void setCheeseId(int cheeseId) {
-        this.cheeseId = cheeseId;
-    }
+    /*    public int getCheeseId() {
+            return cheeseId;
+        }
 
+        public void setCheeseId(int cheeseId) {
+            this.cheeseId = cheeseId;
+        }
+    */
     public String getName() {
         return name;
     }
