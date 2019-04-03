@@ -1,0 +1,77 @@
+package imsproject;
+
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Lob;
+import javax.persistence.ManyToMany;
+import javax.persistence.ManyToOne;
+
+@Entity
+public class InventoryItem {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long id;
+	private String images;
+	private String movieTitle;
+
+	@Lob
+	private String reviewText;
+
+	@ManyToOne
+	private InventoryCategory movieCategory;
+
+	@ManyToMany
+	private Set<Tag> reviewTags;
+
+	protected InventoryItem() {
+
+	}
+
+	public InventoryItem(String movieTitle, String images, String reviewText, InventoryCategory movieCategory, Tag... reviewTags) {
+		this.movieTitle = movieTitle;
+		this.movieCategory = movieCategory;
+		this.images = images;
+		this.reviewText = reviewText;
+		this.reviewTags = new HashSet<>(Arrays.asList(reviewTags));
+	}
+
+	public Long getId() {
+		return id;
+	}
+
+	public void addTag(Tag newTag) {
+		reviewTags.add(newTag);
+	}
+
+	public void removeTag(Tag tagName) {
+		reviewTags.remove(tagName);
+	}
+
+	public String getImages() {
+		return images;
+	}
+
+	public String getMovieTitle() {
+		return movieTitle;
+	}
+
+	public String getReviewText() {
+		return reviewText;
+	}
+
+	public InventoryCategory getMovieCategory() {
+		return movieCategory;
+	}
+
+	public Set<Tag> getReviewTags() {
+		return reviewTags;
+	}
+
+}
