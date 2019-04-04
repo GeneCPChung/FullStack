@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4392e99a-961e-4218-9f41-8b3e9c57f8ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IMSProject/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../IMSProject/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../IMSProject/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../IMSProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IMSProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/IMSController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/IMSProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/InventoryCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/InventoryCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/InventoryItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/InventoryItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/InventoryPopulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/java/imsproject/TagRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../IMSProject/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/comments.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/comments.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/aladin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/beaches.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/big-trouble.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/dumb-and-dumber.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/fmj.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/godfather.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/movie-reel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/puff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/the-matrix.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/images/titanic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/ims-project-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/ims-project-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/js/categories-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/js/jquery-3.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/static/js/review-app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/templates/categories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/templates/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/templates/review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/templates/tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/main/resources/templates/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IMSProject/src/test/java/imsproject/IMSProjectApplicationTests.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="128" />
+    <option name="width" value="1440" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4392e99a-961e-4218-9f41-8b3e9c57f8ff" name="Default Changelist" comment="" />
+      <created>1554416780226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554416780226</updated>
+      <workItem from="1554416781572" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" weight="0.32972974" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
